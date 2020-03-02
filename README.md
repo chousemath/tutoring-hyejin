@@ -17,3 +17,7 @@ $ node example.js
 ```bash
 $ npm run format
 ```
+
+### Study resources
+
+* [How to use Github](https://www.youtube.com/watch?v=0fKg7e37bQE)
